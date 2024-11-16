@@ -34,5 +34,6 @@ Os botões de navegação permitem ao usuário avançar ou retroceder no tempo, 
 
 A exibição dos dias da semana está claramente organizada, com os dias da semana mostrados no topo (Domingo a Sábado) para uma navegação mais intuitiva.
 
-Resumo
+## Resumo ##
+
 Este calendário combina uma interface limpa e moderna com funcionalidades interativas que permitem ao usuário navegar facilmente entre meses e anos, além de destacar a data atual e permitir uma personalização visual com a alternância entre modos claro e escuro.
